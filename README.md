@@ -1,7 +1,7 @@
 anytarget
 =========
 
-The script is created to seamlessly interact with the [Link Text](https://anytarget.io) API.
+The script is created to seamlessly interact with the [anytarget.io](https://anytarget.io) API.
 you can executing `search`, `stats`, `download` commands and, organizing data display.
 
 
